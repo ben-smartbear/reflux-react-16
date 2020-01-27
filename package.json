@@ -1,6 +1,6 @@
 {
   "name": "reflux-react-16",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Reflux Package for React 16",
   "repository": {
     "type": "git",
@@ -20,9 +20,10 @@
     "webpack-cli": "^3.3.0"
   },
   "dependencies": {
+    "react": "^16.12.0",
     "reflux-core": "^1.0.0"
   },
   "peerDependencies": {
-    "react": "^16.2.0"
+    "react": "^16.12.0"
   }
 }
